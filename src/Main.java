@@ -1,5 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Dag 8 av 20");
+        String sayHello = "Hej och god morgon";
+        System.out.println(sayHello);
+
+        Animal horse = new Animal(34, "Charlton Häston", "häst");
+
+
     }
 }
