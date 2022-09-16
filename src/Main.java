@@ -5,6 +5,9 @@ public class Main {
 
         Animal horse = new Animal(34, "Charlton Häston", "häst");
 
+        System.out.println("Det här är ändrat");
+
+
 
     }
 }
